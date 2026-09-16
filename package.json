@@ -1,0 +1,14 @@
+{
+  "name": "bot-telegram-serbaguna",
+  "version": "1.0.0",
+  "description": "Bot Telegram serbaguna dengan Telegraf (quotes, joke, sticker maker, game tebak angka, stats)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "sharp": "^0.33.4",
+    "node-fetch": "^2.7.0"
+  }
+}
